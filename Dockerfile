@@ -1,3 +1,3 @@
-FROM openjdk:21
+FROM openjdk:8
 ADD target/spring-devops.jar spring-devops.jar
 ENTRYPOINT ["java","-jar","/spring-devops.jar"]
