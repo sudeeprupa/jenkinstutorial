@@ -1,3 +1,3 @@
 FROM openjdk:8
-ADD target/spring-devops1.jar spring-devops1.jar
-ENTRYPOINT ["java","-jar","/spring-devops1.jar"]
+ADD target/spring-devops2.jar spring-devops2.jar
+ENTRYPOINT ["java","-jar","/spring-devops2.jar"]
