@@ -39,7 +39,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>spring-devops</finalName>
+		<finalName>spring-devops2</finalName>
 	</build>
 
 </project>
