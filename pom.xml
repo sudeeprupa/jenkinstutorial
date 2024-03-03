@@ -39,7 +39,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>spring-devops4</finalName>
+		<finalName>testrepo</finalName>
 	</build>
 
 </project>
